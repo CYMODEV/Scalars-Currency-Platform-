@@ -82,7 +82,7 @@ Its primary roles include:
 | **Contract Address** | `0x...` (to be updated after deployment) |
 | **Blockchain Network** | e.g., Ethereum Mainnet / Polygon / Base |
 | **Token Standard** | ERC‑20 + EIP‑2612 Permit |
-| **Initial Supply** | 300,000,000 SCALAR |
+| **Initial Supply** | 100,000,000 SCALAR |
 | **Max Supply** | Fixed at initial supply unless DAO vote approves change |
 | **Minting Authority** | Multisig treasury until DAO governance is live |
 | **Burn Functionality** | Enabled |
