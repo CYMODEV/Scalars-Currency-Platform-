@@ -1,4 +1,4 @@
-# Scalars-Currency-Platform-
+# Scalars-Magnitude-Registry-Platform-
 Scalars.app is designed as a hub for all applications and ecosystems where quantifiable magnitude is the core unit of value.
 # SCALAR – Public Declaration of Use as a Coin or Token
 
